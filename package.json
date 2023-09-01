@@ -28,5 +28,8 @@
     "url": "https://github.com/aljones1816/pachyderm-js/issues",
     "email": "support@alanjones.dev"
   },
-  "homepage": "https://github.com/aljones1816/pachyderm-js#readme"
+  "homepage": "https://github.com/aljones1816/pachyderm-js#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
