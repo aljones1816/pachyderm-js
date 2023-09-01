@@ -1,0 +1,32 @@
+{
+  "name": "pachyderm-js",
+  "version": "1.0.0",
+  "description": "pachyderm-js is a library of regression methods for data analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljones1816/pachyderm-js.git"
+  },
+  "keywords": [
+    "regression"
+  ],
+  "contributors": [
+    {
+      "name": "Alan Jones",
+      "email": "me@alanjones.dev"
+    },
+    {
+      "name": "Joshua Jones",
+      "email": "joshua.desjones@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aljones1816/pachyderm-js/issues",
+    "email": "support@alanjones.dev"
+  },
+  "homepage": "https://github.com/aljones1816/pachyderm-js#readme"
+}
